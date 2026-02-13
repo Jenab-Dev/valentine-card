@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://Jenab-Dev.github.io/valentine-card",
+    "homepage": "https://Jenab-Dev.github.io/valentine-card/",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
