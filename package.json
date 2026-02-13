@@ -1,8 +1,8 @@
 {
-    "name": "vite-project",
-    "private": true,
+    "name": "valentine-card",
     "version": "0.0.0",
     "type": "module",
+    "private": false,
     "homepage": "https://jenab-dev.github.io/valentine-card/",
     "scripts": {
         "dev": "vite",
